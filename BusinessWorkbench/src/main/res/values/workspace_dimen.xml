@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_group_margin_start">15dp</dimen>
+    <dimen name="dimen_group_text_size">15dp</dimen>
+    <dimen name="dimen_group_title_layout_height">45dp</dimen>
+    <dimen name="dimen_item_text_size">13dp</dimen>
+    <dimen name="dimen_group_left_icon_padding">5dp</dimen>
+
+    <dimen name="dimen_item_icon_width_height">32dp</dimen>
+
+    <dimen name="divider_height">0.5dp</dimen>
+</resources>

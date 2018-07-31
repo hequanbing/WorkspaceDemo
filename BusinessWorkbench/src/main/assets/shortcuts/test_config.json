@@ -1,0 +1,166 @@
+{
+  "needDivider": "true",
+  "shortCutGroups": [
+    {
+      "group": {
+        "groupTitle": "市委办办公系统",
+        "groupId": "1",
+        "groupTextSize": "15",
+        "groupTextColor": "#67708C",
+        "visible": "true",
+        "leftIcon": "",
+        "groupBgColor": "#FFee00",
+        "vhGap": "0",
+        "rowCount": "3",
+        "viewType": "101"
+      },
+      "shortcuts": [
+        {
+          "id": "101",
+          "title": "待办",
+          "iconRes": "ic_szsw_abjjyj",
+          "iconUrl": "https://xxx.xxx.xxx/icon.png",
+          "bgRes": "bg_szsw_db",
+          "bgUrl": "https://xxx.xxx.xxx/bg.png",
+          "textSize": "13",
+          "textColor": "#67708C",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0",
+          "actionExtra": "action的扩展信息，会根据type的不同 解析规则也不一样",
+          "downloadUrl":"",
+          "enable": "true",
+          "viewType": "201"
+        },
+        {
+          "id": "102",
+          "title": "待阅",
+          "icon": "ic_szsw_dy",
+          "textColor": "#67708C",
+          "action_type": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=1",
+          "viewType": "201"
+        },
+        {
+          "id": "103",
+          "title": "查询",
+          "icon": "ic_szsw_cy",
+          "textColor": "#67708C",
+          "action_type": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenSearch",
+          "viewType": "201"
+        },
+        {
+          "id": "104",
+          "title": "通知公告",
+          "icon": "ic_szsw_tzgg",
+          "textColor": "#67708C",
+          "action_type": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=notification",
+          "viewType": "201"
+        },
+        {
+          "id": "105",
+          "title": "市领导公务活动周表",
+          "icon": "ic_szsw_sldgwhdzb",
+          "textColor": "#67708C",
+          "action_type": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=activityWeek",
+          "viewType": "201"
+        },
+        {
+          "id": "106",
+          "title": "掌上会议",
+          "icon": "ic_szsw_zshy",
+          "textColor": "#67708C",
+          "action_type": "2",
+          "action": "/groupmeeting/activity/my_meetting",
+          "action_extra": "S.some=systemFrom;i.key=100;",
+          "viewType": "201"
+        }
+      ]
+    },
+
+    {
+      "group": {
+        "groupTitle": "市委办办公系统",
+        "groupId": "1",
+        "groupTextSize": "15",
+        "groupTextColor": "#67708C",
+        "visibility": "true",
+        "leftIcon": "",
+        "groupHeight": "125",
+        "groupBgColor": "",
+        "vhGap": "0",
+        "rowCount": "3",
+        "viewType": "101"
+      },
+      "shortcuts": [
+        {
+          "id": "101",
+          "title": "待办",
+          "iconRes": "ic_szsw_abjjyj",
+          "iconUrl": "https://xxx.xxx.xxx/icon.png",
+          "bgRes": "bg_szsw_db",
+          "bgUrl": "https://xxx.xxx.xxx/bg.png",
+          "textSize": "13",
+          "textColor": "#67708C",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0",
+          "actionExtra": "action的扩展信息，会根据type的不同 解析规则也不一样",
+          "downloadUrl":"",
+          "enable": "true",
+          "iconWidth": "32",
+          "iconHeight": "32",
+          "spanSize": "2",
+          "viewType": "201"
+        },
+        {
+          "id": "102",
+          "title": "待阅",
+          "icon": "ic_szsw_dy",
+          "textColor": "#67708C",
+          "action_type": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=1",
+          "viewType": "201"
+        },
+        {
+          "id": "103",
+          "title": "查询",
+          "icon": "ic_szsw_cy",
+          "textColor": "#67708C",
+          "action_type": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenSearch",
+          "viewType": "201"
+        },
+        {
+          "id": "104",
+          "title": "通知公告",
+          "icon": "ic_szsw_tzgg",
+          "textColor": "#67708C",
+          "action_type": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=notification",
+          "viewType": "201"
+        },
+        {
+          "id": "105",
+          "title": "市领导公务活动周表",
+          "icon": "ic_szsw_sldgwhdzb",
+          "textColor": "#67708C",
+          "action_type": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=activityWeek",
+          "viewType": "201"
+        },
+        {
+          "id": "106",
+          "title": "掌上会议",
+          "icon": "ic_szsw_zshy",
+          "textColor": "#67708C",
+          "action_type": "2",
+          "action": "/groupmeeting/activity/my_meetting",
+          "action_extra": "S.some=systemFrom;i.key=100;",
+          "viewType": "201"
+        }
+      ]
+    }
+  ]
+}

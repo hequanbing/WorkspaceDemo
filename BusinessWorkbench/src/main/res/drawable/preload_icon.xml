@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <!-- 深圳市委 工作台icon start -->
+    <item android:drawable="@mipmap/ic_szsw_abjjyj" />
+    <item android:drawable="@mipmap/ic_szsw_cy" />
+    <item android:drawable="@mipmap/ic_szsw_db" />
+    <item android:drawable="@mipmap/ic_szsw_dy" />
+    <item android:drawable="@mipmap/ic_szsw_gyw" />
+    <item android:drawable="@mipmap/ic_szsw_hlwxxzb" />
+    <item android:drawable="@mipmap/ic_szsw_lsbg" />
+    <item android:drawable="@mipmap/ic_szsw_oaxgsq" />
+    <item android:drawable="@mipmap/ic_szsw_qxjsq" />
+    <item android:drawable="@mipmap/ic_szsw_sldgwhdzb" />
+    <item android:drawable="@mipmap/ic_szsw_swzbzb" />
+    <item android:drawable="@mipmap/ic_szsw_tnwgzzb" />
+    <item android:drawable="@mipmap/ic_szsw_tzgg" />
+    <item android:drawable="@mipmap/ic_szsw_wpsq" />
+    <item android:drawable="@mipmap/ic_szsw_xxkb" />
+    <item android:drawable="@mipmap/ic_szsw_ycsq" />
+    <item android:drawable="@mipmap/ic_szsw_zjcysm" />
+    <item android:drawable="@mipmap/ic_szsw_zjjcsq" />
+    <item android:drawable="@mipmap/ic_szsw_zjw" />
+    <item android:drawable="@mipmap/ic_szsw_zshy" />
+    <item android:drawable="@mipmap/ic_szsw_zwhdsp" />
+    <item android:drawable="@mipmap/ic_szsw_zycsdt" />
+    <item android:drawable="@mipmap/ic_szsw_zzhqzsp" />
+    <!-- 深圳市委 工作台icon end -->
+
+    <!-- 深圳市监委 工作台icon start -->
+    <item android:drawable="@mipmap/bg_szscjgw_ydoa" />
+    <item android:drawable="@mipmap/bg_szscjgw_cwxt" />
+    <item android:drawable="@mipmap/bg_szscjgw_sjtj" />
+    <item android:drawable="@mipmap/bg_szscjgw_wzhhyzd" />
+    <item android:drawable="@mipmap/bg_szscjgw_hysyd" />
+    <item android:drawable="@mipmap/bg_szscjgw_gdzcgl" />
+    <item android:drawable="@mipmap/bg_szscjgw_rsgl" />
+    <item android:drawable="@mipmap/bg_szscjgw_yjxt" />
+    <item android:drawable="@mipmap/bg_szscjgw_htgl" />
+
+    <item android:drawable="@mipmap/ic_szscjgw_ydoa" />
+    <item android:drawable="@mipmap/ic_szscjgw_cwxt" />
+    <item android:drawable="@mipmap/ic_szscjgw_sjtj" />
+    <item android:drawable="@mipmap/ic_szscjgw_wzhhyzd" />
+    <item android:drawable="@mipmap/ic_szscjgw_hysyd" />
+    <item android:drawable="@mipmap/ic_szscjgw_gdzcgl" />
+    <item android:drawable="@mipmap/ic_szscjgw_rsgl" />
+    <item android:drawable="@mipmap/ic_szscjgw_yjxt" />
+    <item android:drawable="@mipmap/ic_szscjgw_htgl" />
+    <!-- 深圳市监委 工作台icon end -->
+
+</animation-list>
+

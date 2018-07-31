@@ -1,0 +1,105 @@
+{
+  "needDivider": "false",
+  "shortCutGroups": [
+    {
+      "group": {
+        "groupId": "1",
+        "visible": "false",
+        "vhGap": "10",
+        "rowCount": "3"
+      },
+      "shortcuts": [
+        {
+          "id": "101",
+          "title": "移动OA",
+          "iconRes": "ic_szscjgw_ydoa",
+          "bgRes": "bg_szscjgw_ydoa",
+          "textColor": "#FFFFFF",
+          "viewType": "202",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0"
+        },
+        {
+          "id": "102",
+          "title": "会议室预定",
+          "iconRes": "ic_szscjgw_hysyd",
+          "bgRes": "bg_szscjgw_hysyd",
+          "textColor": "#FFFFFF",
+          "viewType": "202",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0"
+        },
+        {
+          "id": "103",
+          "title": "无纸化会议终端",
+          "iconRes": "ic_szscjgw_wzhhyzd",
+          "bgRes": "bg_szscjgw_wzhhyzd",
+          "textColor": "#FFFFFF",
+          "viewType": "202",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0"
+        },
+        {
+          "id": "104",
+          "title": "固定资产管理",
+          "iconRes": "ic_szscjgw_gdzcgl",
+          "bgRes": "bg_szscjgw_gdzcgl",
+          "textColor": "#FFFFFF",
+          "viewType": "202",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0"
+        },
+        {
+          "id": "105",
+          "title": "人事管理",
+          "iconRes": "ic_szscjgw_rsgl",
+          "bgRes": "bg_szscjgw_rsgl",
+          "textColor": "#FFFFFF",
+          "viewType": "202",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0"
+        },
+        {
+          "id": "106",
+          "title": "合同管理",
+          "iconRes": "ic_szscjgw_htgl",
+          "bgRes": "bg_szscjgw_htgl",
+          "textColor": "#FFFFFF",
+          "viewType": "202",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0"
+        },
+        {
+          "id": "107",
+          "title": "财务系统",
+          "iconRes": "ic_szscjgw_cwxt",
+          "bgRes": "bg_szscjgw_cwxt",
+          "textColor": "#FFFFFF",
+          "viewType": "202",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0"
+        },
+        {
+          "id": "108",
+          "title": "数据统计",
+          "iconRes": "ic_szscjgw_sjtj",
+          "bgRes": "bg_szscjgw_sjtj",
+          "textColor": "#FFFFFF",
+          "viewType": "202",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0"
+        },
+        {
+          "id": "109",
+          "title": "邮件系统",
+          "iconRes": "ic_szscjgw_yjxt",
+          "bgRes": "bg_szscjgw_yjxt",
+          "textColor": "#FFFFFF",
+          "viewType": "202",
+          "actionType": "1",
+          "action": "http://10.248.85.77/iexoalogin.html?toPage=gongwenList&activedTab=0"
+        }
+      ]
+    }
+  ]
+}
